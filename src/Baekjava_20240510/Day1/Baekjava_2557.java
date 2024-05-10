@@ -1,5 +1,7 @@
 package Baekjava_20240510.Day1;
 
+// 문제명 : Hello World (2557)
+
 // 문제
 // Hello World!를 출력하시오.
 

@@ -1,5 +1,7 @@
 package Baekjava_20240510.Day1;
 
+// 문제명 : We love kriii (10718)
+
 // 문제
 // ACM-ICPC 인터넷 예선, Regional, 그리고 World Finals까지 
 // 이미 2회씩 진출해버린 kriii는 미련을 버리지 못하고 왠지 모르게 

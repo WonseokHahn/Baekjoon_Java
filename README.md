@@ -13,3 +13,5 @@
 2. 자바 프로젝트 생성 
     => 1) Ctrl + Shift + P 
        2) create java project
+3. 터미널 키 변경 
+    => Ctrl + T

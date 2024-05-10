@@ -1,17 +1,24 @@
 package Baekjava_20240510.Day2;
 
+// 문제명 : A×B (10998)
+
 // 문제
-// ACM-ICPC 인터넷 예선, Regional, 그리고 World Finals까지 
-// 이미 2회씩 진출해버린 kriii는 미련을 버리지 못하고 왠지 모르게 
-// 올해에도 파주 World Finals 준비 캠프에 참여했다.
-// 대회를 뜰 줄 모르는 지박령 kriii를 위해서 격려의 문구를 출력해주자.
+// 두 정수 A와 B를 입력받은 다음, A×B를 출력하는 프로그램을 작성하시오.
 
 // 출력
-// 두 줄에 걸쳐 "강한친구 대한육군"을 한 줄에 한 번씩 출력한다.
+// 첫째 줄에 A×B를 출력한다.
+
+import java.util.Scanner;
 
 public class Baekjava_10998 {
     public static void main(String[] args) throws Exception {
-        System.out.println("강한친구 대한육군");
-        System.out.println("강한친구 대한육군");
+        //자연수 A, B를 받아온다.
+        Scanner sc = new Scanner(System.in);
+        int A = sc.nextInt();
+        int B = sc.nextInt();
+
+        System.out.println(A * B);
     }
 }
+
+// 포인트1 : input값이 작은 경우는 Scanner를 사용할 것 그 외에는 bufferReader사용할 예정
