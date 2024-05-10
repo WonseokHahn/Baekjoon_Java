@@ -1,18 +1,15 @@
-## Getting Started
+백준 문제 자바로 풀기 위한 vscode 세팅
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+확장자 설치
+1. Extension Pack for Java
+2. Debugger for Java
+3. Live Server
+4. Git History
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+사용한 단축키 및 설정
+1. 단축키 변경 
+    => 1) Ctrl + Shift + P, 
+       2) 기본 설정 바로가기 키 열기
+2. 자바 프로젝트 생성 
+    => 1) Ctrl + Shift + P 
+       2) create java project
